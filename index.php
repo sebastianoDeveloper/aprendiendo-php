@@ -53,7 +53,6 @@ curl_close($ch);
     color-scheme: light dark;
     font-family: Calibri;
   }
-
   body {
     display: grid;
     place-content: center;
